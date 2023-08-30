@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="@style/SCREEN"
+    android:background="@color/primary"
+    tools:context=".CountriesAdapter.SettingsActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/avatarprofile"/>
+
+
+        <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/editProfileBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginTop="20dp"
+                android:paddingStart="30dp"
+                android:layout_gravity="center"
+                android:background="@drawable/rounded_back_secondary"
+                android:text="Profile"
+                style="@style/BUTTON"
+                android:textColor="@color/primary"
+                android:textAllCaps="false"
+                android:paddingEnd="30dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/round_back_white"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:padding="12dp"
+                        android:src="@drawable/night_icon"
+                        android:id="@+id/nightModeIcon"
+                        android:background="@drawable/round_back_night_mode"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:text="Night Mode"
+                            style="@style/TEXT"
+                            android:textColor="#FFFFFF"
+                            android:fontFamily="@font/robotoslabextrabold"
+                            android:layout_toEndOf="@id/nightModeIcon"
+                            android:layout_marginStart="20dp"/>
+
+
+                    <androidx.appcompat.widget.SwitchCompat
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:switchMinWidth="50dp"
+                        android:id="@+id/screenModeSwitch"
+                        android:theme="@style/nightModeSwitch"
+                        />
+
+
+                </RelativeLayout>
+
+
+
+                <!--
+                <RelativeLayout
+                    android:layout_marginTop="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:padding="12dp"
+                        android:src="@drawable/notificationsicon"
+                        android:id="@+id/notificationIcon"
+                        android:background="@drawable/round_back_notifications"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="Notifications"
+                        style="@style/TEXT"
+                        android:textColor="#FFFFFF"
+                        android:fontFamily="@font/robotoslabextrabold"
+                        android:layout_toEndOf="@id/notificationIcon"
+                        android:layout_marginStart="20dp"/>
+
+
+                    <androidx.appcompat.widget.SwitchCompat
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:switchMinWidth="50dp"
+                        android:id="@+id/notificationSwitcher"
+                        android:theme="@style/notificationsSwitch"
+                        />
+
+
+                </RelativeLayout>
+                -->
+
+
+                <!--
+                <RelativeLayout
+                    android:layout_marginTop="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:padding="12dp"
+                        android:src="@drawable/privacyicon"
+                        android:id="@+id/privateAccountIcon"
+                        android:background="@drawable/round_back_private_acccount"/>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="Private Account"
+                        style="@style/TEXT"
+                        android:textColor="#FFFFFF"
+                        android:fontFamily="@font/robotoslabextrabold"
+                        android:layout_toEndOf="@id/privateAccountIcon"
+                        android:layout_marginStart="20dp"/>
+
+
+
+                    <androidx.appcompat.widget.SwitchCompat
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:switchMinWidth="50dp"
+                        android:theme="@style/privateAccountSwitch"
+                        />
+
+
+                </RelativeLayout>
+                -->
+            </LinearLayout>
+            <!--
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginEnd="20dp"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/round_back_white"
+                        android:orientation="vertical"
+                        android:padding="15dp">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <ImageView
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:padding="12dp"
+                                android:src="@drawable/securityicon"
+                                android:id="@+id/securityIcon"
+                                android:background="@drawable/round_back_security"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:text="Security &amp; Privacy"
+                                android:textColor="#FFFFFF"
+                                style="@style/TEXT"
+                                android:fontFamily="@font/robotoslabextrabold"
+                                android:layout_toEndOf="@id/securityIcon"
+                                android:layout_marginStart="20dp"/>
+
+
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/right_icon"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"/>
+
+
+                        </RelativeLayout>
+                   -->
+
+            <!--
+            <RelativeLayout
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="12dp"
+                    android:src="@drawable/textsizeicon"
+                    android:id="@+id/textSizeIcon"
+                    android:background="@drawable/round_back_private_acccount"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Text Size"
+                    style="@style/TEXT"
+                    android:textColor="#FFFFFF"
+                    android:fontFamily="@font/robotoslabextrabold"
+                    android:layout_toEndOf="@id/textSizeIcon"
+                    android:layout_marginStart="20dp"/>
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/right_icon"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"/>
+
+
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="12dp"
+                    android:src="@drawable/languageicon"
+                    android:id="@+id/languageIcon"
+                    android:background="@drawable/round_back_notifications"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Language"
+                    style="@style/TEXT"
+                    android:textColor="#FFFFFF"
+                    android:fontFamily="@font/robotoslabextrabold"
+                    android:layout_toEndOf="@id/languageIcon"
+                    android:layout_marginStart="20dp"/>
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/right_icon"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"/>
+
+
+
+
+            </RelativeLayout>
+
+-->
+
+        </LinearLayout>
+
+
+            <!--
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="12dp"
+                    android:src="@drawable/sendmessageicon"
+                    android:id="@+id/sendMessageIcon"
+                    android:background="@drawable/round_back_notifications"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Send us a Message"
+                    android:textColor="#FFFFFF"
+                    style="@style/TEXT"
+                    android:fontFamily="@font/robotoslabextrabold"
+                    android:layout_toEndOf="@id/sendMessageIcon"
+                    android:layout_marginStart="20dp"/>
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/right_icon"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"/>
+
+
+
+
+            </RelativeLayout>
+
+
+
+            <RelativeLayout
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="12dp"
+                    android:src="@drawable/aboutus"
+                    android:id="@+id/aboutUsIcon"
+                    android:background="@drawable/round_back_security"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="About us"
+                    style="@style/TEXT"
+                    android:textColor="#FFFFFF"
+                    android:fontFamily="@font/robotoslabextrabold"
+                    android:layout_toEndOf="@id/aboutUsIcon"
+                    android:layout_marginStart="20dp"/>
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/right_icon"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"/>
+
+
+
+
+            </RelativeLayout>
+-->
+
+         <!--   <RelativeLayout
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="12dp"
+                    android:src="@drawable/faqicon"
+                    android:id="@+id/faqIcon"
+                    android:background="@drawable/round_back_night_mode"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="Language"
+                    style="@style/TEXT"
+                    android:textColor="#FFFFFF"
+                    android:fontFamily="@font/robotoslabextrabold"
+                    android:layout_toEndOf="@id/faqIcon"
+                    android:layout_marginStart="20dp"/>
+
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/right_icon"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"/>
+
+
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+-->
+    <LinearLayout
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginEnd="130dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/round_back_white"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="12dp"
+                    android:src="@drawable/outicon"
+                    android:id="@+id/outIcon"
+                    android:background="@drawable/round_back_security"/>
+
+
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>

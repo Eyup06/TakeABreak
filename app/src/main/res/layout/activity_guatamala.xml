@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    style="@style/SCREEN"
+    tools:context=".CountryActivities.GuatamalaActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.smarteist.autoimageslider.SliderView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:id="@+id/GuatemalaSliderView"
+                app:sliderAnimationDuration="600"
+                app:sliderAutoCycleDirection="back_and_forth"
+                app:sliderAutoCycleEnabled="true"
+                app:sliderIndicatorAnimationDuration="600"
+                app:sliderIndicatorGravity="center_horizontal|bottom"
+                app:sliderIndicatorMargin="15dp"
+                app:sliderIndicatorOrientation="horizontal"
+                app:sliderIndicatorPadding="3dp"
+                app:sliderIndicatorRadius="2dp"
+                app:sliderIndicatorSelectedColor="#5A5A5A"
+                app:sliderIndicatorUnselectedColor="#fff"
+                app:sliderScrollTimeInSec="2"
+                app:sliderStartAutoCycle="true"/>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Coffee production in Guatemala"
+                android:fontFamily="@font/robotoslabblack"
+                android:background="#339933"
+                android:layout_marginTop="36dp"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+                android:layout_gravity="center_horizontal"/>
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/guatamala11"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Las Merceditas coffee plantation, San Rafael Pie de la Cuesta, Guatemala."
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/black"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotaslabregular"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/guatemala1"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="16dp"
+                android:textSize="18sp"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotoslabsemibold"
+                android:textColor="@color/black"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Geography"
+                android:fontFamily="@font/robotoslabblack"
+                android:background="#339933"
+                android:layout_marginTop="36dp"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/guatemala_geography"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="16dp"
+                android:textSize="18sp"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotoslabsemibold"
+                android:textColor="@color/black"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="History"
+                android:fontFamily="@font/robotoslabblack"
+                android:background="#339933"
+                android:layout_marginTop="36dp"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+                android:layout_gravity="center_horizontal"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/guatemala_history1"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="16dp"
+                android:textSize="18sp"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotoslabsemibold"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/guatemala_history2"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="16dp"
+                android:textSize="18sp"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotoslabsemibold"
+                android:textColor="@color/black"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/guatemala_history3"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="16dp"
+                android:textSize="18sp"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotoslabsemibold"
+                android:textColor="@color/black"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Anacafé"
+                android:fontFamily="@font/robotoslabblack"
+                android:background="#339933"
+                android:layout_marginTop="36dp"
+                android:textColor="@color/white"
+                android:textSize="22sp"
+                style="@style/TEXT"
+
+                android:layout_gravity="center_horizontal"/>
+
+
+
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/guatamala22"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Coffee beans being sorted, Guatemala."
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/black"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotaslabregular"/>
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/Anacafé1"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="16dp"
+                android:textSize="18sp"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotoslabsemibold"
+                android:textColor="@color/black"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/Anacafé2"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="16dp"
+                android:textSize="18sp"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotoslabsemibold"
+                android:textColor="@color/black"
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/Anacafé3"
+                android:layout_marginTop="16dp"
+                android:layout_marginHorizontal="16dp"
+                android:textSize="18sp"
+                style="@style/TEXT"
+
+                android:fontFamily="@font/robotoslabsemibold"
+                android:textColor="@color/black"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

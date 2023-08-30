@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_brazilian"
+                    android:title="Brazil"
+                    android:tooltipText="@string/robotoextralight"
+                    android:icon="@drawable/brazilicon"
+                    android:titleCondensed="@string/robotaslabregular"/>
+
+                <item
+                    android:id="@+id/nav_vietnam"
+                    android:title="Vietnam"
+                    android:tooltipText="@string/robotoextralight"
+                    android:icon="@drawable/vietnamicon"
+                    android:titleCondensed="@string/robotaslabregular"/>
+
+                <item
+                    android:id="@+id/nav_honduras"
+                    android:title="Honduras"
+                    android:tooltipText="@string/robotoextralight"
+                    android:icon="@drawable/hondurasicon"
+                    android:titleCondensed="@string/robotaslabregular"/>
+
+                <item
+                    android:id="@+id/nav_colombia"
+                    android:title="Colombia"
+                    android:icon="@drawable/colombiaicon"
+                    android:tooltipText="@string/robotoextralight"
+                    android:titleCondensed="@string/robotaslabregular"/>
+
+                <item
+                    android:id="@+id/nav_ethiopia"
+                    android:title="Ethiopia"
+                    android:icon="@drawable/ethiopiaicon"
+                    android:tooltipText="@string/robotoextralight"
+                    android:titleCondensed="@string/robotaslabregular"/>
+
+                <item
+                    android:id="@+id/nav_guatamala"
+                    android:title="Guatamala"
+                    android:icon="@drawable/guatamalaicon"
+                    android:tooltipText="@string/robotoextralight"
+                    android:titleCondensed="@string/robotaslabregular"/>
+
+
+                <item
+                    android:id="@+id/nav_settings"
+                    android:title="Settings"
+                    android:tooltipText="@string/robotoextralight"
+                    android:icon="@drawable/settings_icon"
+                    android:titleCondensed="@string/robotoslabextrabold"/>
+
+        </group>
+</menu>

@@ -1,0 +1,183 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">World Coffees</string>
+
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+
+    <string name="pasificoRegular" tools:ignore="ReferenceType">@font/pacificoregular</string>
+    <string name="robotoextralight" tools:ignore="ReferenceType">@font/robotaslabextralight</string>
+    <string name="robotaslabregular" tools:ignore="ReferenceType">@font/robotaslabregular</string>
+    <string name="robotoslabblack" tools:ignore="ReferenceType">@font/robotoslabblack</string>
+    <string name="robotoslabbold" tools:ignore="ReferenceType">@font/robotoslabbold</string>
+    <string name="robotoslabextrabold" tools:ignore="ReferenceType">@font/robotoslabextrabold</string>
+    <string name="robotoslablight" tools:ignore="ReferenceType">@font/robotoslablight</string>
+    <string name="robotoslabmedium" tools:ignore="ReferenceType">@font/robotoslabmedium</string>
+    <string name="robotoslabsemibold" tools:ignore="ReferenceType">@font/robotoslabsemibold</string>
+    <string name="robotoslabthin" tools:ignore="ReferenceType">@font/robotoslabthin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="history_of_coffee">The history of coffee dates back to centuries of old oral tradition in modern day Jimma, Ethiopia. Coffee was first cultivated in Ethiopia, then later introduced to other countries. In the 15th century, Sufi monasteries in Yemen employed coffee as an aid to concentration during prayers.</string>
+
+    <string name="history_of_name_2">Coffee later spread to the Levant in the early 16th century; it caused some controversy on whether it was halal in Ottoman and Mamluk society. Coffee arrived in Italy the second half of the 16th century through commercial Mediterranean trade routes, while Central and Eastern Europeans learned of coffee from the Ottomans.</string>
+
+    <string name="history_of_name_3">By the mid 17th century, it had reached India and the East Indies. Coffeepot (cafetière "campanienne"), part of a service, 1836, hard-paste porcelain, Metropolitan Museum of Art Coffee houses were established in Western Europe by the late 17th century, especially in Holland, England, and Germany. One of the earliest cultivations of coffee in the New World was when Gabriel de Clieu brought coffee seedlings to Martinique in 1720.</string>
+
+    <string name="history_of_coffee_4">These beans later sprouted 18,680 coffee trees which enabled its spread to other Caribbean islands such as Saint-Domingue and also to Mexico. By 1788, Saint-Domingue supplied half the world\'s coffee.[citation needed] By 1852 Brazil became the world\'s largest producer of coffee and has held that status ever since. The period since 1950 saw the widening of the playing field owing to the emergence of several other major producers, notably Colombia, the Ivory Coast, Ethiopia, and Vietnam; the latter overtook Colombia and became the second-largest producer in 1999. Modern production techniques along with the mass productization of coffee has made it a household item today.</string>
+
+
+    <string name="middle_east">Sufis in Yemen used the beverage as an aid to concentration and as a kind of spiritual intoxication when they chanted the name of God. Sufis used it to keep themselves alert during their nighttime devotions. The 16th century Umdat al Safwa fi hill al-qahwa عمدة الصفوة في حل القهوة by Abd al-Qadir al-Jaziri, an important early source on the history of coffee, traces the spread of coffee from Arabia Felix (present-day Yemen) northward to Mecca and Medina, and then to the larger cities of Cairo, Damascus, Baghdad, and Constantinople.</string>
+
+
+    <string name="middle_east_2"> By 1414, the plant was known in Mecca, and in the early 1500s was spreading to the Mameluke Sultanate of Egypt and North Africa from the Yemeni port of Mocha. Associated with Sufism, myriad coffee houses grew up in Cairo (Egypt) around the religious University of the Azhar. These coffee houses also opened in Syria, especially in the cosmopolitan city of Aleppo, and then in Istanbul, the capital of the Ottoman Empire, in 1554. Coffee was also noted in Aleppo by the German physician botanist Leonhard Rauwolf, the first European to mention it, as chaube, in 1573; Rauwolf was closely followed by descriptions from other European travellers.</string>
+
+
+    <string name="middle_east_3">In 1511, it was forbidden for its stimulating effect by conservative, orthodox imams at a theological court in Mecca. However, these bans were to be overturned in 1524 by an order of the Ottoman Turkish Sultan Suleiman I, with Grand Mufti Mehmet Ebussuud el-İmadi issuing a fatwa allowing the consumption of coffee. In Cairo a similar ban was instituted in 1532, and the coffeehouses and warehouses containing coffee beans were sacked.[18] During the 16th century, it had already reached the rest of the Middle East, the Safavid Empire and the Ottoman Empire. From the Middle East, coffee drinking spread to Italy, then to the rest of Europe, and coffee plants were transported by the Dutch to the East Indies and to the Americas.</string>
+
+
+    <string name="europe">Coffee was first introduced to Europe in Hungary when the Turks invaded Hungary at the Battle of Mohács in 1526. Within a year, coffee had reached Vienna by the same Turks who fought the Europeans at the Siege of Vienna (1529). Later in the 16th century, coffee was introduced on the island of Malta through slavery. Turkish Muslim slaves had been imprisoned by the Knights of St John in 1565—the year of the Great Siege of Malta, and they used them to make their traditional beverage. Domenico Magri mentioned in his work Virtu del Kafé, "Turks, most skillful makers of this concoction." </string>
+
+    <string name="europe_2">Also, the German traveler Gustav Sommerfeldt in 1663 wrote "the ability and industriousness with which the Turkish prisoners earn some money, especially by preparing coffee, a powder resembling snuff tobacco, with water and sugar." Coffee was a popular beverage in Maltese high society—many coffee shops opened.</string>
+
+    <string name="europe_3">The first mention of coffee in a European text is in Charles de l Ecluses Aromatum et simplicium aliquot medica-mentorum apud Indos nascientum historia from 1575. He learnt of coffee from Alphoncius Pansius in Padua. Englishmen passing through Safavid and the Ottoman Empire in the late 16th century noted that coffee was "very good to help digestion, to quicken the spirits, and to cleanse the blood.”</string>
+
+    <string name="europe_4">The vibrant trade between the Republic of Venice and the people of North Africa, Egypt, and the East brought a large variety of African goods, including coffee, to this leading European port. Venetian merchants introduced coffee-drinking to the wealthy in Venice, charging them heavily for the beverage. In this way, coffee was introduced to the mainland of Europe. In 1591 Venetian botanist-physician Prospero Alpini became the first to publish a description of the coffee plant in Europe. The first European coffee house apart from those in the Ottoman Empire and in Malta was opened in Venice in 1645.</string>
+
+    <string name="europe_5">The first route of travel for coffee was through the massive, sprawling Ottoman Empire that allowed transportation of goods such as coffee to make their way well into Europe, and the second route of travel was from the port of Mocha in Yemen, where the East India Trading Co. bought coffee in masses and transported it back to mainland Europe. Coffee became a crucial part of the culture in most of Europe, with queens, kings, and the general public all becoming extensively enthralled with the product. Rather it be through the term coffee arabica or the transportation of the drink, the passage of coffee into the Western world greatly resembles that of the scientific knowledge and discoveries passed on by the Islamicate Empires.</string>
+
+
+    <string name="brazil1">Brazil produces about a third of the world\'s coffee, making the country by far the world\'s largest producer. Coffee plantations, covering some 27,000 km2 (10,000 sq mi), are mainly located in the southeastern states of Minas Gerais, São Paulo and Paraná where the environment and climate provide ideal growing conditions.</string>
+
+    <string name="brazil2">The crop first arrived in Brazil in the 18th century, and the country had become the dominant producer by the 1840s. Brazilian coffee prospered since the early 19th century, when immigrants came to work in the coffee plantations. Production as a share of world coffee output peaked in the 1920s but has declined since the 1950s due to increased global production.</string>
+
+    <string name="brazil_history">Coffee was not native to the Americas and had to be planted in the country. The first coffee was grown by Native Americans. The first coffee bush in Brazil was planted by Francisco de Melo Palheta in Pará in 1727. According to the legend, the Portuguese were looking for a cut of the coffee market, but could not obtain seeds from bordering French Guiana due to the governor s unwillingness to export the seeds.</string>
+
+    <string name="brazil_history_2">Palheta was sent to French Guiana on a diplomatic mission to resolve a border dispute. On his way back home, he managed to smuggle the seeds into Brazil by seducing the governor s wife who secretly gave him a bouquet spiked with seeds.</string>
+
+    <string name="brazil_history_3">Coffee spread from Pará and reached Rio de Janeiro in 1770, but was only produced for domestic consumption until the early 19th century when American and European demand increased, creating the first of two coffee booms. The cycle ran from the 1830s to 1850s, contributing to the decline of slavery and increased industrialization.</string>
+
+    <string name="brazil_history_4">Coffee plantations in Rio de Janeiro, São Paulo and Minas Gerais quickly grew in size in the 1820s, accounting for 20% of worlds production. By the 1830s, coffee had become Brazil s largest export and accounted for 30% of the world s production. In the 1840s, both the share of total exports and of world production reached 40%, making Brazil the largest coffee producer.</string>
+
+    <string name="brazil_history_5">The early coffee industry was dependent on slaves; in the first half of the 19th century 1.5 million slaves were imported to work on the plantations. When the foreign slave trade was outlawed in 1850, plantation owners began turning more and more to European immigrants to meet the demand of labor. However, internal slave trade with the north continued until slavery was finally abolished in Brazil in 1888.</string>
+
+    <string name="brazil_history_6">The second boom ran from the 1880s to the 1930s, corresponding to a period in Brazilian politics called café com leite ("coffee with milk"). The name refers to the largest states dominating industries: coffee in São Paulo and dairy in Minas Gerais. This period also saw the Brazilian government start the practice of valorization, a protectionist practice designed to stabilize the price of coffee.</string>
+
+
+    <string name="brazil_history_7">The second boom ran from the 1880s to the 1930s, corresponding to a period in Brazilian politics called café com leite ("coffee with milk"). The name refers to the largest states dominating industries: coffee in São Paulo and dairy in Minas Gerais. This period also saw the Brazilian government start the practice of valorization, a protectionist practice designed to stabilize the price of coffee.</string>
+
+    <string name="brazil_history_8">The Zona da Mata Mineira district grew 90% of the coffee in Minas Gerais region during the 1880s and 70% during the 1920s. Most of the workers were black men, including both slaves and free. Increasingly Italian, Spanish and Japanese immigrants provided the expanded labor force.</string>
+
+    <string name="brazil_history_9">The railway system was built to haul the coffee beans to market, but it also provided essential internal transportation for both freight and passengers, as well as develop a large skilled labor force.</string>
+
+    <string name="brazil_history_10">The growing coffee industry attracted millions of immigrants and transformed São Paulo from a small town to the largest industrial center in the developing world.</string>
+
+    <string name="brazil_history_11">The city s population of 30,000 in the 1850s grew to 70,000 in 1890 and 240,000 in 1900. With one million inhabitants in the 1930s São Paulo surpassed Rio de Janeiro as the country s largest city and most important industrial center.</string>
+
+    <string name="brazil_history_12">By the early 20th century, coffee accounted for 16% of Brazil s gross national product, and three-fourths of its export earnings. The growers and exporters played major roles in politics; however historians are debating whether or not they were the most powerful actors in the political system. The February 1906 Taubaté Agreement is a clear example of the high influence on federal politics São Paulo gained from the coffee production.</string>
+
+    <string name="brazil_history_13">Overproduction had decreased the price of coffee, and to protect the coffee industry – and the interests of the local coffee elite  the government was to control the price by buying abundant harvests and sell it at the international market at a better opportunity.The scheme sparked a temporary rise in the price and promoted the continued expansion of the coffee production. The valorization scheme was successful from the perspective of the planters and the Brazilian state,[22] but led to a global oversupply and increased the damages from the crash during the Great Depression in the 1930s.</string>
+
+    <string name="brazil_history_14">In the 1920s, Brazil was a nearly monopolist of the international coffee market and supplied 80% of the world s coffee. Since the 1950s, the country s market share steadily declined due to increased global production. Despite a falling share and attempts by the government to decrease the export sector s dependency on a single crop, coffee still accounted for 60% of Brazil s total exports as late as 1960.</string>
+
+
+    <string name="vietnam">Coffee production has been a major source of income for Vietnam since the early 20th century. First introduced by the French in 1857, the Vietnamese coffee industry developed through the plantation system, becoming a major economic force in the country.</string>
+
+    <string name="vietnam_1">After an interruption during and immediately following the Vietnam War, production rose once again after Đổi mới economic reforms, making coffee second only to rice in value of agricultural products exported from Vietnam.</string>
+
+    <string name="vietnam_history">It is believed that the coffee plant was first introduced to Vietnam in 1857 by French missionaries, but the first coffee plantations were only set up in 1888 at the Ninh Bình and Quảng Bình provinces of Tonkin. Early coffee production was mainly of the Arabica variety.</string>
+
+    <string name="vietnam_history_1">The height of coffee production occurred in the early 20th century as small-scale production increasingly shifted towards commercial plantations. In the 1920s, the French decided to open coffee production zones in parts of the Central Highlands, mainly in Đắk Lắk Province. An estimated total of 1,500 tons of coffee was produced for export each year by 1930; that amount increased to 2,000 tons per year by 1940.</string>
+
+    <string name="vietnam_history_2">The first instant coffee plant, Coronel Coffee Plant, was established in Biên Hòa, Đồng Nai Province in 1969, with a production capacity of 80 tons per year.</string>
+
+    <string name="vietnam_history_3">The Vietnam War disrupted production of coffee in the Buôn Ma Thuột region, the plateau on which the industry was centered. Although seldom involved in conflict, the area was a crossroads between North and South and was largely depopulated. After the North Vietnamese victory, the industry, like most agriculture, was collectivized, limiting private enterprise and resulting in low production.</string>
+
+    <string name="vietnam_history_4">Following Đổi mới reforms in 1986, privately owned enterprise was once again permitted, resulting in a surge of growth in the industry.</string>
+
+    <string name="vietnam_history_5">Cooperation between growers, producers and government resulted in branding finished coffees and exporting products for retail. However, by the late 1970s, economic and social reforms led to labour shortages in the Central Highlands thus creating opportunities for migration into these less populated regions, compared to overpopulated and poverty experienced in the lowland areas. It is likely that between four and five million people migrated to the Central Highlands after 1975.</string>
+
+
+    <string name="vietnamcoffe_1">Vietnamese coffee beans are usually roasted in butter then brewed in metal filters. Some filters are small enough to rest on a coffee cup and make excellent souvenirs; others are so enormous they need a team to carry.</string>
+
+    <string name="vietnamcoffe_2">The moments spent waiting for your coffee to brew are part of the pleasure of this style of coffee. Due to its bitterness, black Vietnamese coffee is an acquired taste. Feel free to sweeten your drink with condensed milk (you will find that many locals do), or mix it with ice. A cold cà phê sữa đá on a hot day is a quintessential Vietnamese coffee experience.</string>
+
+
+    <string name="vietnamcoffe_3">The story goes that after the war when milk was scarce, Hanoians still craved something to take the edge off their coffee. Inexpensive and creamy, egg yolks emerged as the perfect alternative.</string>
+
+    <string name="vietnamcoffe_4">Even as Vietnam became more prosperous and milk returned to the market, cà phê trứng persisted for its delicious goodness. It is now a must-try Hanoi specialty drink, especially during the winter months. A dense, frothy head of foam sits atop a rich brew: gently fold it in with a spoon, and sip slowly.</string>
+
+    <string name="vietnamcoffee_5">Very few cities escape the summer sun in Vietnam. If you start to overheat while exploring, why not try an iced coconut coffee? More of a scoop-able ice cream than a drinkable coffee, coconut coffee or cà phê cốt dừa, is at once a pick-me-up, fill-me-up, and cool-me-down. The barista will blend traditional drip coffee with coconut milk, fresh milk, and condensed milk.</string>
+
+    <string name="vietnamcoffe_6">The finished product is spooned into a glass and serve as a refreshing treat. The coffee grounds the flavour with the coconut giving the drink a fun tropical twist, kind of like a coffee cocktail.</string>
+
+
+    <string name="vietnam_coffee_7">A weird and wonderful alternative to milk, you just can’t go wrong with an enticing yoghurt coffee, better known as cà phê sữa chua. The drink blends Vietnamese drip coffee with yoghurt, condensed milk, and ice, though the last two are optional.</string>
+
+    <string name="vietnam_coffee_8">You will find ca phe sua chua on menus across Hanoi, however the best coffee shops use fresh, home-made yoghurt. The sourness from the yoghurt, bitterness from the coffee beans, and sweetness from the condensed milk makes for a mouthwatering combination.</string>
+
+
+    <string name="vietnam_coffee_9">If you have tried the Vietnamese iced coffee and can handle something even sweeter, look no further than cà phê bạc xỉu. The ingredients are essentially the same as the holy trinity of a cà phê sữa đá: coffee, condensed milk, and crushed ice.</string>
+
+    <string name="vietnam_coffee_10">The difference is all in the proportions, with more milk less coffee going into a bac xiu. The drink is popular with teenagers still learning to appreciate the bitterness of Robusta coffee.</string>
+
+
+    <string name="honduras_coffee">The cultivation of the coffee plant was in its infancy in the Republic of Honduras at the end of the 19th century. While there were numerous coffee plantations at the time, they were small. The soil, climate, and conditions in Honduras are the same as those of Guatemala, Nicaragua, or Costa Rica. The drawback in Honduras was lack of means of transportation and facilities for shipment to the coast. There was practically no exportation of coffee from Honduras, the product was mostly sold domestically.</string>
+
+    <string name="honduras_coffee_1">A new plantation of coffee would begin to produce a profit by the end of the fourth year after planting, and after the seventh year a profit of from 100 to 300 per cent on the capital invested could be expected. The production of coffee in 1894 was reckoned at 20,000 quintals, of which only 10 per cent was exported. The exportation was from the southern Pacific port of Amapala and the northern, deep water, Caribbean port of Puerto Cortes. In 1900, Honduras exported 54,510 pesos worth of coffee.</string>
+
+    <string name="colombia_coffee_1">Coffee production in Colombia has a reputation for producing mild, well-balanced coffee beans. Colombia s average annual coffee production of 11.5 million bags is the third total highest in the world, after Brazil and Vietnam, though highest in terms of the arabica bean. The beans are exported to United States, Germany, France, Japan, and Italy.</string>
+
+    <string name="colombia_coffee_2">Most coffee is grown in the Colombian coffee growing axis region, while other regions focus on quality instead of volumes, such as Sierra Nevada de Santa Marta. In 2007, the European Union granted Colombian coffee a protected designation of origin status. In 2011, UNESCO declared the "Coffee Cultural Landscape" of Colombia, a World Heritage site.</string>
+
+    <string name="colombia_coffee_3">The coffee plant had spread to Colombia by 1790. The oldest written testimony of the presence of coffee in Colombia is attributed to a Jesuit priest, José Gumilla. In his book The Orinoco Illustrated (1730), he registered the presence of coffee in the mission of Saint Teresa of Tabajé, near where the Meta river empties into the Orinoco. Further testimony comes from the archbishop-viceroy Caballero y Gongora (1787) who registered the presence of the crop in the north east of the country near Giron (Santander) and Muzo (Boyaca) in a report that he provided to the Spanish authorities.</string>
+
+
+    <string name="ethiopia">Coffee production in Ethiopia is a longstanding tradition which dates back dozens of centuries. Ethiopia is where Coffea arabica, the coffee plant, originates. The plant is now grown in various parts of the world; Ethiopia itself accounts for around 3% of the global coffee market. Coffee is important to the economy of Ethiopia; around 60% of foreign income comes from coffee, with an estimated 15 million of the population relying on some aspect of coffee production for their livelihood. In 2006, coffee exports brought in $350 million, equivalent to 34% of that year is total exports.</string>
+
+    <string name="ethiopia_history">The coffee plant originates in Ethiopia, according to legend, the 9th-century goatherder Kaldi in the region of Kaffa discovered the coffee plant after noticing the energizing effect the plant had on his flock, but the story did not appear in writing until 1671. After originating in Ethiopia, coffee was consumed as a beverage in Yemen, possibly around the 6th century, even though the origin of coffee drinking is obscure.  From Yemen, coffee spread into Istanbul, Cairo, and Damascus.</string>
+
+    <string name="ethiopia_history1">Ethiopian Christians refrained from drinking coffee due to its perceived association with Muslims until the 19th century.[5] The first coffeehouses in Europe opened in Venice in 1645. The first coffeehouse in the United States began in Boston in 1689. Demand for coffee increased drastically in the 1960s, leading to opening of the first Starbucks store in Seattle in 1971.</string>
+
+
+    <string name="ethiopia_1">Ethiopia is the world is seventh largest producer of coffee, and Africa s top producer, with 260,000 metric tonnes in 2006. Over 4 million small-scale farmers produce coffee. Half of the coffee is consumed by Ethiopians, and the country leads the continent in domestic consumption. The major markets for Ethiopian coffee are the EU (about half of exports), East Asia (about a quarter) and North America.</string>
+
+    <string name="ethiopia_2">The total area used for coffee cultivation is estimated to be about 4,000 km2 (1,500 sq mi). The exact size is unknown due to the fragmented nature of the coffee farms.[14] The way of production has not changed much, with nearly all work, cultivating and drying, still done by hand.</string>
+
+    <string name="ethiopia_3">Ethiopias coffees can be divided into three main categories, depending on their method of production: Forest Coffees, from wild coffee trees grown mostly in the southwest of the country; Garden Coffees, from trees typically planted around a homestead or other dwelling; Plantation Coffees, from trees grown intensively on large farms.</string>
+
+    <string name="ethiopia_4">The revenues from coffee exports account for 10% of the annual government revenue, because of the large share the industry is given very high priority, but there are conscious efforts by the government to reduce the coffee industry is share of the GDP by increasing the manufacturing sector.</string>
+
+    <string name="ethiopia_5">The Tea and Coffee Authority, part of the federal government, handles anything related to coffee and tea, such as fixing the price at which the washing stations buy coffee from the farmers. This is a legacy from a nationalization scheme set in action by the previous regime that turned over all the washing stations to farmers cooperatives.The domestic market is heavily regulated through licenses, with the goal of avoiding market concentration.</string>
+
+
+    <string name="ethiopia_7">On 26 October 2006, Oxfam accused Starbucks of asking the National Coffee Association (NCA) to block a US trademark application from Ethiopia for three of the countrys coffee beans, Sidamo, Harar and Yirgacheffe. They claimed this could result in denying Ethiopian coffee farmers potential annual earnings of up to £47m.</string>
+
+    <string name="ethiopia_8">Ethiopia and Oxfam America urged Starbucks to sign a licensing agreement with Ethiopia to help boost prices paid to farmers. At issue was Starbucks use of Ethiopias famed coffee brands—Guji, Sidamo, Yirgacheffe and Harar—that generate high margins for Starbucks and cost consumers a premium, yet generated very low prices to Ethiopian farmers.</string>
+
+    <string name="ethiopia_9">Robert Nelson, the head of the NCA, added that his organization initiated the opposition for economic reasons, "For the U.S. industry to exist, we must have an economically stable coffee industry in the producing world ... This particular scheme is going to hurt the Ethiopian coffee farmers economically." The NCA claimed the Ethiopian government was being badly advised and this move could price them out of the market.</string>
+
+    <string name="ethiopia_10">Facing more than 92,000 letters of concern, Starbucks had placed pamphlets in its stores accusing Oxfam of "misleading behavior" and insisting that its "campaign need to stop". On 7 November, The Economist derided Oxfam is "simplistic" stance and Ethiopia is "economically illiterate" government, arguing that Starbucks (and Illys) standards-based approach would ultimately benefit farmers more. In conclusion of this issue, on 20 June 2007, representatives of the Government of Ethiopia and senior leaders from Starbucks Coffee Company announced that they had executed an agreement regarding distribution, marketing and licensing that recognizes the importance and integrity of Ethiopia is specialty coffee designations. Financial terms regarding this agreement were not disclosed.</string>
+
+    <string name="ethiopia_11">Starbucks, as part of the deal, also was set to market Ethiopian coffee during two promotional periods in 2008. A Starbucks spokesman said the announcement is "another development" in the relationship with Ethiopia and a way to raise the profile of Ethiopian coffee around the world.</string>
+
+    <string name="ethiopia_12">An Oxfam spokesman said the deal sounds like a "useful step" as long as farmers are benefiting, and it is a big step from a year ago when Starbucks "was not engaging directly (with) Ethiopians on adding value to their coffee".</string>
+
+
+    <string name="guatemala1">Coffee production in Guatemala began to develop in the 1850s. Coffee is an important element of Guatemalas economy. Guatemala was Central Americas top producer of coffee for most of the 20th and the beginning of the 21st century, until being overtaken by Honduras in 2011. Illegal exports to Honduras and Mexico are not reflected in official statistics.</string>
+
+
+    <string name="guatemala_geography">The most suitable temperature for the healthy growth and abundant production of coffee in Guatemala is that of 16 to 32 °C (60 to 90 °F). In lands situated at an altitude of 500–700 metres (1,600–2,300 ft) above sea level, young plants must be shaded.In zones averaging an altitude of 1,500 metres (4,900 ft), the plantations must be sheltered from the cold north winds. For the most part, the coffee plantations are situated at an altitude varying from 500–5,000 metres (1,600–16,400 ft) above sea level.</string>
+
+    <string name="guatemala_history1">The coffee industry began to develop in Guatemala in the 1850s and 1860s, initially mixing its cultivation with cochineal. German immigrants played “a very important role” in the introduction of coffee to the country, according to Marta Elena Casaús Arzú.[citation needed] Small plantations flourished in Amatitlán and Antigua areas in the southwest. Initial growth though was slow due to lack of knowledge and technology. Many planters had to rely on loans and borrow from their families to finance their coffee estates (fincas) with coffee production in Guatemala increasingly owned by foreign companies who possessed the financial power to buy plantations and provide investment.</string>
+
+    <string name="guatemala_history2">A scarcity of laborers was the main obstacle to a rapid increase of coffee production in Guatemala. In 1887, the production was over 22,000,000 kg (48,500,000 lb). In 1891, it was over 24,000,000 kg (52,000,000 lb). From 1879 to 1883, Guatemala exported 133,027,289 kg (293,274,971 lb) pounds of coffee. By 1902 the most important coffee plantations were found on the southern coast.</string>
+
+    <string name="guatemala_history3">Many acres of land were suitable for this cultivation, and the varieties that were produced in the temperate regions were superior. Coffee was grown around Guatemala City, Chimaltenango, and Verapaz. The majority of the plantations were located in the departments of Guatemala, Amatitlan, Sacatepequez, Solola, Retalhuleu, Quezaltenango, San Marcos, and Alta Verapaz.</string>
+
+
+    <string name="Anacafé1">Anacafé (Asociación Nacional del Café) was established in 1960 as a national coffee association, representing all coffee producers in Guatemala. It was initiated by the precursors to the International Coffee Organization, as a way of centralizing statistics of the nations coffee production as it continued the work of La Oficina Central del Café, previously established and operated by the central government which in turn was established in 1928.</string>
+
+    <string name="Anacafé2">Anacafé has established a Guatemalan Coffees brand, and defined eight coffee regions under the slogan "A Rainbow of Choices". The regions are: Acatenango Valley, Antigua Coffee, Traditional Atitlan, Rainforest Coban, Fraijanes Plateau, Highland Huehue, New Oriente, and Volcanic San Marcos.</string>
+
+    <string name="Anacafé3">Anacafé has built the Analab coffee laboratories, established a program for children called Funcafé, and publishes El Cafetal, a coffee magazine. Anacafé represents Guatemala in the International Coffee Organizations meetings, and receives income only from service charges on exported coffee items.</string>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#30cfd0"
+    tools:context=".RegisterActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:lottie_autoPlay="true"
+            app:lottie_cacheComposition="true"
+            app:lottie_loop="true"
+            app:lottie_speed="1"
+            app:lottie_rawRes="@raw/regiteranim"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Username"
+            android:padding="15dp"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/edittext_bg"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:id="@+id/registerUsername"
+            android:drawableStart="@drawable/person"
+            />
+
+        <EditText
+            android:id="@+id/registerEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginRight="25dp"
+            android:background="@drawable/edittext_bg"
+            android:drawableStart="@drawable/email_icon"
+            android:hint="Email"
+            android:padding="15dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Password"
+            android:padding="15dp"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/edittext_bg"
+            android:layout_marginLeft="25dp"
+            android:inputType="textPassword"
+            android:layout_marginRight="25dp"
+            android:drawableStart="@drawable/baseline_vpn_key_24"
+            android:id="@+id/registerPassword"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Confirm Password"
+            android:id="@+id/confirmPassword"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/edittext_bg"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:inputType="textPassword"
+            android:drawableStart="@drawable/lock_icon"
+            android:padding="15dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/loginRedirect"
+            android:text="Already have an Account?"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:textSize="15sp"
+            android:fontFamily="@font/robotoslabbold"
+            android:textColor="@color/brown"
+            />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/registerBtn"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/edittext_bg"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:text="Regıster"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

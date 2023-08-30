@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="155dp"
+        app:lottie_autoPlay="true"
+        android:background="@color/private_account"
+        app:lottie_cacheComposition="true"
+        app:lottie_speed="1"
+        app:lottie_rawRes="@raw/coffeeanimm"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="COUNTRİES"
+        android:textSize="25sp"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:fontFamily="@font/robotoslabextrabold"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"/>
+
+
+</LinearLayout>

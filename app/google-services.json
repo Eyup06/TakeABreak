@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85698179231",
+    "project_id": "takeabreak-4f437",
+    "storage_bucket": "takeabreak-4f437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85698179231:android:c9121d5b2ac3b6f980f2aa",
+        "android_client_info": {
+          "package_name": "com.eyupyilmaz.takeabreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85698179231-2r4okhqpqkg434q1j9gk4lpitd2qf2sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC_Rmf3ey8YKPCcHUhGd_9J-aRtmb64HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85698179231-2r4okhqpqkg434q1j9gk4lpitd2qf2sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
